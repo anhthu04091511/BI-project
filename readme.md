@@ -1,3 +1,6 @@
+* Hình ảnh demo của đồ án
+![](media/demo1.png)
+![](media/demo2.png)
 * Tổ chức thư mục
 
 Dataset
